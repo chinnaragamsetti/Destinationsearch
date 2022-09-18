@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.mainbg {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  padding: 30px;
+  justify-content: center;
+}
+.h {
+  font-size: 40px;
+  color: black;
+}
+
+.listscontainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

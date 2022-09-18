@@ -1,0 +1,8 @@
+/* Write your CSS here */
+.listcontainer {
+  list-style-type: none;
+  width: 250px;
+}
+.image {
+  width: 230px;
+}
